@@ -7,8 +7,8 @@ The Online Voting System is a Java-based application that facilitates secure and
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
+- [Getting Started](#Getting-Started).
+
 
 ## Introduction
 
@@ -30,10 +30,5 @@ The Online Voting System is designed to streamline the voting process, making it
 Follow these steps to set up and run the Online Voting System locally.
 
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Paulin-arul/online-voting-system.git
 # Online-Voting-System-Project-in-Java
