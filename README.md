@@ -35,5 +35,5 @@ Follow these steps to set up and run the Online Voting System locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/online-voting-system.git
+   git clone https://github.com/Paulin-arul/online-voting-system.git
 # Online-Voting-System-Project-in-Java
